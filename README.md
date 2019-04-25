@@ -1,5 +1,5 @@
-# Crnn_chinese_characters_rec
-chinese characters recognition
+# Crnn_chinese_english_rec
+chinese and english characters recognition
 
 ## Descriptions in chinese：https://blog.csdn.net/Sierkinhane/article/details/82857572
 
